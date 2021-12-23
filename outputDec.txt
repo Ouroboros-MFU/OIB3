@@ -1,0 +1,1 @@
+Blowfish is a block cipher developed by Bruce Schneier. It is known to be susceptible to attacks when using wea
